@@ -1,2 +1,1 @@
-# random-scripts
 Random Scripts
